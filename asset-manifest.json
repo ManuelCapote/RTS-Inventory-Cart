@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RTS-Inventory-Cart/static/css/main.a617e044.chunk.css",
-    "main.js": "/RTS-Inventory-Cart/static/js/main.0fc9d6f2.chunk.js",
-    "main.js.map": "/RTS-Inventory-Cart/static/js/main.0fc9d6f2.chunk.js.map",
+    "main.js": "/RTS-Inventory-Cart/static/js/main.32058fc5.chunk.js",
+    "main.js.map": "/RTS-Inventory-Cart/static/js/main.32058fc5.chunk.js.map",
     "runtime-main.js": "/RTS-Inventory-Cart/static/js/runtime-main.2d8e3bf4.js",
     "runtime-main.js.map": "/RTS-Inventory-Cart/static/js/runtime-main.2d8e3bf4.js.map",
     "static/js/2.bfad3957.chunk.js": "/RTS-Inventory-Cart/static/js/2.bfad3957.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2d8e3bf4.js",
     "static/js/2.bfad3957.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.0fc9d6f2.chunk.js"
+    "static/js/main.32058fc5.chunk.js"
   ]
 }
