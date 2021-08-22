@@ -34,11 +34,12 @@ const Cart = () => {
     <p>
      {item} <button onClick={()=> (handleClick(item)) }>Remove from Cart</button>
     </p>
+    <br />
    </div>
    ))}
 
  return (
-  <div>
+  <div style={{marginTop: '100px', marginBottom: '100px'}}>
    <h1>Cart</h1>
    {renderItems()}
   </div>

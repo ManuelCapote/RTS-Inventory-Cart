@@ -34,6 +34,7 @@ const Inventory = () => {
     <p>
      {item} <button onClick={() => (handleClick(item))}>Add to Cart</button>
     </p>
+    <br />
    </div>
    ))}
 

@@ -3,6 +3,7 @@ import './App.css'
 import Inventory from './Components/Inventory'
 import Cart from './Components/Cart'
 import { ItemsProvider } from './Components/ItemsContext'
+import SideNotes from './Components/SideNotes'
 
 function App() {
   return (
@@ -10,6 +11,8 @@ function App() {
       <div className='App'>
         <Inventory />
         <Cart />
+        <br />
+                <SideNotes />
       </div>
     </ItemsProvider>
   )
